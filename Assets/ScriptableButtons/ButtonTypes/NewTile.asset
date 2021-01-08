@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: daff1834796397f4e949e8b1df457d7f, type: 3}
-  m_Name: Water
+  m_Name: NewTile
   m_EditorClassIdentifier: 
-  tileID: 1
-  tileName: Water
-  color: {r: 0, g: 0.47813863, b: 0.5943396, a: 1}
-  h_color: {r: 0.05322181, g: 0.66912156, b: 0.8679245, a: 1}
+  tileID: 5
+  tileName: Tile Name
+  color: {r: 1, g: 1, b: 1, a: 1}
+  h_color: {r: 0.8113208, g: 0.6697223, b: 0.6697223, a: 1}

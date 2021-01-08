@@ -15,3 +15,4 @@ MonoBehaviour:
   tileID: 0
   tileName: Grass
   color: {r: 0.015886446, g: 0.4811321, b: 0.055769883, a: 1}
+  h_color: {r: 0.33459416, g: 0.6886792, b: 0.39707974, a: 1}
